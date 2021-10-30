@@ -2,8 +2,11 @@
 
 ## Barber's sleeper problem
 
+Sleeping barber: If there are no customers, the barber falls asleep. If the barber's chair is free, a customer can be seen immediately (does not sit in the waiting chair). The customer waits for the barber if there is an empty waiting chair. If there is nowhere to sit, the customer leaves.
+
 Directed study made in Java on the classic barber problem sleeper.
-Among several solutions that can be implemented for this problem, in this repository the solution is displayed using the concept of threads.
+Among several solutions that can be implemented for this problem, in this repository the solution is displayed using the concept of threads and the traffic light technique.
+
 The barber's sleeper problem consists of:
 
 The barber shop has:
